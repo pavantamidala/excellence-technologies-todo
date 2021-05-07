@@ -1,0 +1,14 @@
+.title{
+    margin: 15px;
+}
+.description{
+    margin:15px;
+}
+.btn{
+    width: 120px;
+    height: 25px;
+    background-color:#3f3697;
+    color: white;
+    border: 1px black solid;
+    
+}
